@@ -1,1 +1,1 @@
-# Monitorimento_de_Temperatura-
+# Monitoramento_de_Temperatura-
