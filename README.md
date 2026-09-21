@@ -1,4 +1,4 @@
-# Monitoramento_de_Temperatura-
+# Projeto-estruturas-de-repetição
 ## 🌡️ Sistema de Monitoramento Industrial de Temperatura em C
 
 Projeto desenvolvido em linguagem C para simular um sistema de monitoramento industrial de temperatura, aplicando conceitos de **estruturas de repetição, estruturas condicionais e validação de dados**.
